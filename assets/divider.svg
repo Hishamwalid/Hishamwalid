@@ -1,17 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="34" viewBox="0 0 900 34" role="presentation" aria-hidden="true">
   <defs>
     <linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
-      <stop offset="35%" stop-color="#58a6ff"/>
-      <stop offset="62%" stop-color="#3fb950"/>
-      <stop offset="100%" stop-color="#bc8cff" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#B0E0E6" stop-opacity="0.8"/>
+      <stop offset="68%" stop-color="#A8D5BA" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#F2C0CB" stop-opacity="0"/>
     </linearGradient>
     <style>
-      .dash { animation: flow 9s linear infinite; }
-      @keyframes flow { to { stroke-dashoffset: -180; } }
+      .dash { animation: flow 16s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -160; } }
     </style>
   </defs>
-  <line x1="60" y1="17" x2="840" y2="17" stroke="url(#dg)" stroke-width="1.5" stroke-dasharray="7 9" class="dash" opacity="0.75"/>
-  <circle cx="450" cy="17" r="3.5" fill="#3fb950"/>
-  <circle cx="450" cy="17" r="7" fill="none" stroke="#3fb950" stroke-opacity="0.35"/>
+  <line x1="70" y1="17" x2="830" y2="17" stroke="url(#dg)" stroke-width="1" stroke-dasharray="6 10" class="dash"/>
+  <circle cx="450" cy="17" r="2.5" fill="#B0E0E6"/>
 </svg>

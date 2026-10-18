@@ -20,15 +20,10 @@
 </p>
 
 <p align="center">
-  <a href="https://bauet.ac.bd"><img src="https://img.shields.io/badge/University-BA%20UET-1f6feb?style=for-the-badge" alt="BAUET"></a>
-  <a href="https://www.spaceappschallenge.org/"><img src="https://img.shields.io/badge/NASA%20Space%20Apps%202026-Team%20Lead-0e8a16?style=for-the-badge" alt="NASA Space Apps 2026 Team Lead"></a>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-8957e5?style=for-the-badge" alt="Focus: Cybersecurity">
-  <img src="https://img.shields.io/badge/Org-AKRASIA-f0883e?style=for-the-badge" alt="AKRASIA">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CSE-0d1117?style=flat-square&logo=github&labelColor=000" alt="">
-  <img src="https://img.shields.io/badge/Solving%20systems%20and%20security-0d1117?style=flat-square&logo=github&labelColor=000" alt="">
+  <a href="https://bauet.ac.bd"><img src="https://img.shields.io/badge/University-BA%20UET-B0E0E6?style=flat-square" alt="BAUET"></a>
+  <a href="https://www.spaceappschallenge.org/"><img src="https://img.shields.io/badge/NASA%20Space%20Apps%202026-Team%20Lead-A8D5BA?style=flat-square" alt="NASA Space Apps 2026 Team Lead"></a>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-F2C0CB?style=flat-square" alt="Focus: Cybersecurity">
+  <img src="https://img.shields.io/badge/Org-AKRASIA-E8E8EA?style=flat-square" alt="AKRASIA">
 </p>
 
 ---
@@ -173,9 +168,9 @@ The long term: postgraduate study in cybersecurity, and practical work where I c
 
 <!-- TODO: replace these with your real links -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Portfolio"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A0A0B?style=flat-square&logo=linkedin&logoColor=B0E0E6" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-0A0A0B?style=flat-square&logo=gmail&logoColor=F2C0CB" alt="Email"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0A0A0B?style=flat-square&logo=googlechrome&logoColor=A8D5BA" alt="Portfolio"></a>
 </p>
 
 ---
