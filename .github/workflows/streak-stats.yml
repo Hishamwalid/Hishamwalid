@@ -29,23 +29,11 @@ jobs:
       - name: Generate streak / total-contributions card
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: >-
-            user=${{ github.repository_owner }}
-            &theme=dark
-            &hide_border=true
-            &border_radius=8
-            &background=0d1117
-            &ring=3fb950
-            &fire=58a6ff
-            &currStreakNum=3fb950
-            &sideNums=bc8cff
-            &sideLabels=8b949e
-            &dates=6e7681
-            &locale=en
-            &timezone=Asia/Dhaka
-            &starting_year=2024
-            &card_width=520
-            &card_height=220
+          # MUST stay on one line with no space after any "&".
+          # A folded YAML block joins lines with spaces, which corrupts
+          # every parameter after the first one (streak-stats returns an
+          # "Invalid timezone" SVG instead of failing loudly).
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&border_radius=8&background=0d1117&ring=3fb950&fire=58a6ff&currStreakNum=3fb950&sideNums=bc8cff&sideLabels=8b949e&dates=6e7681&locale=en&timezone=Asia/Dhaka&starting_year=2024&card_width=520&card_height=220
           path: profile/streak.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
 
