@@ -158,7 +158,7 @@ The long term: postgraduate study in cybersecurity, and practical work where I c
 - 🌾 **48%** of the Forecast Farm codebase
 - 📄 Shipped a production web app that BAUET students actually use
 - 🤝 **17 pull requests** opened, and contributions to 4 repositories I don't own
-- 🏅 **GitHub Pair Extraordinaire ×2** — for co-authored commits
+- 🦈 **Pull Shark** + **YOLO ×2** — pull requests merged into team projects
 - 👥 Part of the **AKRASIA** team
 - 🧱 8 projects across 5 personal repositories and 3 team repositories
 
