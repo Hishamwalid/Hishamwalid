@@ -1,0 +1,9 @@
+# Private setup notes — not part of the public profile
+SETUP.md
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
